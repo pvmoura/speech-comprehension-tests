@@ -1,0 +1,84 @@
+acceptanceintro
+watson: 24 seconds
+google: 6 seconds
+
+acceptanceintro2
+watson: 20 seconds
+google: 4 seconds
+
+adviceforparents
+watson: 4 seconds
+google: 3 seconds
+
+adviceforparents2
+watson: 3 seconds
+google: 1 seconds
+
+cantonese5
+watson: 28 seconds
+google: 12 seconds
+
+danish4
+watson: 23 seconds
+google: 8 seconds
+
+english1
+watson: 15 seconds
+google: 6 seconds
+
+english23
+watson: 18 seconds
+google: 5 seconds
+
+english6
+watson: 19 seconds
+google: 5 seconds
+
+english7
+watson: 25 seconds
+google: 9 seconds
+
+english9
+watson: 24 seconds
+google: 9 seconds
+
+hebrew3
+watson: 20 seconds
+google: 12 seconds
+
+hindi4
+watson: 31 seconds
+google: 11 seconds
+
+indonesian3
+watson: 32 seconds
+google: 12 seconds
+
+italian19
+watson: 30 seconds
+google: 11 seconds
+
+kambaata1
+watson: 36 seconds
+google: 11 seconds
+
+kikuyu1
+watson: 36 seconds
+google: 11 seconds
+
+portuguese7
+watson: 21 seconds
+google: 9 seconds
+
+russian5
+watson: 28 seconds
+google: 7 seconds
+
+spanish7
+watson: 34 seconds
+google: 10 seconds
+
+test
+watson: 21 seconds
+google: 5 seconds
+
